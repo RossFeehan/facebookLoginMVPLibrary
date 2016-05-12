@@ -1,4 +1,4 @@
-package ross.feehan.com.facebooklogin.DataTypes; /*
+package ross.feehan.com.facebooklogin.Features; /*
  * Created by Ross Feehan on 11/05/2016.
  */
 
@@ -24,6 +24,8 @@ import org.json.JSONObject;
 import java.util.Arrays;
 
 import ross.feehan.com.facebooklogin.BuildConfig;
+import ross.feehan.com.facebooklogin.DataTypes.FacebookDetailsObject;
+import ross.feehan.com.facebooklogin.DataTypes.FacebookLoginOnActivityResultObject;
 import ross.feehan.com.facebooklogin.Features.FacebookCallbackDataInterface;
 import ross.feehan.com.facebooklogin.Features.FacebookLoginLogicInterface;
 

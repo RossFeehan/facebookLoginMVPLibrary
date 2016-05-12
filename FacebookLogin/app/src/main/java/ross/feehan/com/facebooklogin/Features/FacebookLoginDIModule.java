@@ -5,11 +5,8 @@ package ross.feehan.com.facebooklogin.Features; /*
 import android.app.Activity;
 import android.content.Context;
 
-import javax.inject.Singleton;
-
 import dagger.Module;
 import dagger.Provides;
-import ross.feehan.com.facebooklogin.DataTypes.FacebookCallbackDataImpl;
 import ross.feehan.com.facebooklogin.DataTypes.FacebookDetailsObject;
 import ross.feehan.com.facebooklogin.DataTypes.FacebookLoginOnActivityResultObject;
 import ross.feehan.com.facebooklogin.Shared.MessageFactory;
