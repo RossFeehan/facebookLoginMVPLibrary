@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">Facebook Login</string>
     <string name="action_settings">Settings</string>
+
+    <string name="facebooklogin">Login with Facebook</string>
+    <string name="facebookError">Sorry, there was an error with Facebook login</string>
+    <string name="facebookSuccess">Successfully logged in through Facebook</string>
+
+    <!--Facebook -->
+    <string name="facebookAppID">YOUR KEY GOES HERE</string>
+    <string name="facebookLogin">Facebook Login</string>
+    <string name="facebookAppIDMessage">Dont forget to set your Facebook App ID in R.String</string>
+
 </resources>
